@@ -1,0 +1,9 @@
+{
+  "name": "eng-review",
+  "description": "Engineering best-practices code review across 20 categories (security, performance, architecture, scale).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jobairshi",
+    "email": "jisan@appifylab.com"
+  }
+}

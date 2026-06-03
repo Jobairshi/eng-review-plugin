@@ -1,0 +1,14 @@
+{
+  "name": "jobairshi-marketplace",
+  "owner": {
+    "name": "Jobairshi",
+    "email": "jisan@appifylab.com"
+  },
+  "plugins": [
+    {
+      "name": "eng-review",
+      "source": "./",
+      "description": "Engineering best-practices code review across 20 categories."
+    }
+  ]
+}
